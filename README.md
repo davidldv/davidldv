@@ -34,21 +34,32 @@
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Rust](https://img.shields.io/badge/Rust%20-%2314354C.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 <br>   
     
 - **Front-End Development**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+   ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)
+   ![SASS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass2.svg)
+   ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg) 
+   ![React Native](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg)
+   ![Vite.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg)
+   ![Next JS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg)
+   ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
+   ![Axios](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios1.svg)
+   ![Redux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux2.svg)
+   ![TailwindCSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg)
+   ![Bootstrap](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg)
 
 <br>
 
-- **Cloud Hosting**:
+- **Back-End Development**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
+   ![NestJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg) ![PostgreSQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg) ![NodeJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![TypeORM](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeORM/typeorm1.svg) ![JWT](https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt1.svg)![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg) ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg) ![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg) ![Express.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+
 <br>
 
 - **Softwares and Tools**:
@@ -57,15 +68,8 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![AWS](https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws3.svg) ![WebStorm](https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm1.svg) ![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg) ![Notion](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg) ![Vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![EsLint](https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint1.svg)
 
 </p>
 

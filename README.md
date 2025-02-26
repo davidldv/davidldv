@@ -25,7 +25,7 @@
    ![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
    ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)
    ![SASS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass2.svg)
-   ![JavaScript](https://img.shields.io/badge/Javascript%20-%232370ED.svg?style=for-the-badge&logo=javascript&logoColor=white)
+   ![Javascript](https://img.shields.io/badge/Typescript%20-%232370ED.svg?style=for-the-badge&logo=typescript&logoColor=white)
    ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg) 
    ![React Native](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg)
    ![Next JS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg)

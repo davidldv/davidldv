@@ -10,7 +10,7 @@
 - A passionate Self-taught FullStack developer
 - <a href="https://linkedin.com/in/davidldv" target="_blank"><img src="https://img.shields.io/badge/linkedin:  davidldv-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a>
 - <a href="mailto:dlondon.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail:  dlondon.dev-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" /></a>
-- Personal website <a href="https://davidlondon.vercel.app/" target="_blank">portfolio</a>
+- Personal website <a href="https://dlondon.tech/" target="_blank">portfolio</a>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

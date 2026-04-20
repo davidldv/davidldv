@@ -85,6 +85,17 @@ Realtime collaboration system built with a hardened communication layer and veri
 
 🔗 [Source Code](https://github.com/davidldv/paircode)
 
+### 🧪 [JWT Security Lab](https://github.com/davidldv/jwtsecuritylab) — Offense-and-Defense JWT Lab
+`TypeScript` · `Node.js` · `Docker` · `OpenSSL` · `Bash`
+
+Offense-and-defense lab exercising real-world JWT vulnerabilities against a hardened mirror — proving each fix rather than claiming it.
+
+- **From-scratch JWT sign/verify** in TypeScript (no libraries) reproducing five production-grade flaws: `alg=none` bypass, **HS256/RS256 key confusion**, weak-secret offline brute-force, **kid** header injection (path traversal), and missing **iss/aud/exp** validation
+- Reproducible exploit scripts (**Bash + OpenSSL**) and a harness that proves each payload succeeds against the vulnerable API and is rejected by the secure one
+- Hardened service **eliminates entire bug classes**: single-algorithm **RS256 allowlist**, fixed in-memory **kid registry** with rotation, generic errors to block oracle attacks, and **scrypt** password hashing
+
+🔗 [Source Code](https://github.com/davidldv/jwtsecuritylab)
+
 ---
 
 ## 💼 Experience
@@ -102,9 +113,8 @@ Realtime collaboration system built with a hardened communication layer and veri
 
 ## 🎓 Education & Certifications
 
-**Universidad Tecnológica de Pereira** — Systems & Computing Engineering · _Expected Dec 2026_
-Coursework: Operating Systems, Computer Architecture, Networking, Algorithms, Software Engineering, Applied ML
-
+**Universidad Tecnológica de Pereira** — Systems & Computing Engineering
+Self-directed continuing study: Operating Systems, Computer Architecture, Networking, Algorithms & Data Structures, Applied Machine Learning. Two years of university-level coursework in Systems & Computing Engineering (Universidad Tecnológica de Pereira, not completed).
 **In Progress:** CompTIA Security+ (2026-Q3) · PortSwigger Web Security Academy
 **Platforms:** [HackTheBox @davidldv](davidldv) · [TryHackMe dlondon.dev](https://tryhackme.com/p/dlondon.dev)
 

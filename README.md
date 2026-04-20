@@ -115,6 +115,7 @@ Offense-and-defense lab exercising real-world JWT vulnerabilities against a hard
 
 **Universidad Tecnológica de Pereira** — Systems & Computing Engineering
 Self-directed continuing study: Operating Systems, Computer Architecture, Networking, Algorithms & Data Structures, Applied Machine Learning. Two years of university-level coursework in Systems & Computing Engineering (Universidad Tecnológica de Pereira, not completed).
+
 **In Progress:** CompTIA Security+ (2026-Q3) · PortSwigger Web Security Academy
 **Platforms:** [HackTheBox @davidldv](davidldv) · [TryHackMe dlondon.dev](https://tryhackme.com/p/dlondon.dev)
 

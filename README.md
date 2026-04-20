@@ -7,7 +7,7 @@
 
   <p align="center">
     <b>🔐 Software Engineer focused on Application Security & secure software design</b><br/>
-    <b>🌍 Based in Pereira, Colombia — Open to EU Blue Card / US sponsorship</b><br/>
+    <b>🌍 Based in Pereira, Colombia — Open to full-time roles or freelance</b><br/>
     <b>🗣️ Spanish (native) · English C1 · German B1</b>
   </p>
 

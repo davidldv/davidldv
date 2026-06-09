@@ -18,7 +18,7 @@
     <a href="mailto:dlondon.dev@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://dlondon.tech/" target="_blank">
+    <a href="https://davidlondon.dev/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="https://app.hackthebox.com/profile/davidldv" target="_blank">

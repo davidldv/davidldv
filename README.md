@@ -1,12 +1,14 @@
 <div align="center">
+  <img src="./davidbanner.png" alt="David Londoño — AI AppSec Engineer" width="100%" />
+
   <h1 align="center">Hey! I'm David <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=336699&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Application+Security;TypeScript+%7C+Next.js+%7C+PostgreSQL;OWASP+Top+10+%7C+Threat+Modeling+%7C+OAuth%2FJWT;Breaking+apps+to+build+them+safer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=336699&center=true&vCenter=true&width=700&lines=AI+AppSec+Engineer;TypeScript+%7C+Next.js+%7C+PostgreSQL;OWASP+Top+10+%7C+Threat+Modeling+%7C+OAuth%2FJWT;Breaking+apps+to+build+them+safer" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b>🔐 Software Engineer focused on Application Security & secure software design</b><br/>
+    <b>🔐 AI AppSec Engineer — building AI-driven software & securing it by design</b><br/>
     <b>🌍 Based in Pereira, Colombia — Open to full-time roles or freelance</b><br/>
     <b>🗣️ Spanish (native) · English C1 · German B1</b>
   </p>
@@ -34,12 +36,11 @@
 
 ## 👨‍💻 About Me
 
-Full-stack engineer with production experience in **TypeScript, Next.js, and PostgreSQL**, pivoting into **Application Security** and secure software design.
+AI AppSec Engineer with production experience in **TypeScript, Next.js, and PostgreSQL**, focused on **Application Security** and building AI-driven software securely.
 
 I ship real systems — auth stacks, realtime APIs, retail platforms — and I harden them. Day-to-day I apply **OWASP Top 10** mitigations, **STRIDE threat modeling**, and offensive testing to find and fix real vulnerabilities before they reach production.
 
 Currently:
-- 🔨 Building & owning a production retail platform (~$1.5M COP/day) at **Materiales La Bodega**
 - 📚 Studying for **CompTIA Security+** (target 2026-Q3) + working through **PortSwigger Web Security Academy**
 - 🧪 Hacking on HackTheBox & TryHackMe to keep offensive instincts sharp
 
@@ -96,14 +97,18 @@ Offense-and-defense lab exercising real-world JWT vulnerabilities against a hard
 
 🔗 [Source Code](https://github.com/davidldv/jwtsecuritylab)
 
+### 🏪 Materiales La Bodega — Production Retail Platform
+`Next.js` · `PostgreSQL` · `Prisma` · `RBAC` · `OWASP`
+
+Retail platform I designed and shipped solo for a family business (~$1.5M COP/day), spanning e-commerce and in-store operations.
+
+- In-house **authentication, session security, and RBAC** separating staff vs. customer surfaces
+- Hardened the app layer against **OWASP Top 10**: parameterized queries, server-side validation, CSRF on state-changing endpoints, least-privilege DB roles
+- Owns the full stack end to end — auth, checkout, inventory, and in-store operations
+
 ---
 
 ## 💼 Experience
-
-**Full Stack Engineer @ Materiales La Bodega** · _Mar 2026 – Present · Remote_
-- Own and scale a production retail platform (~$1.5M COP/day) across e-commerce and in-store operations
-- Responsible for authentication, session security, and RBAC separating staff vs. customer surfaces
-- Hardened the app layer against **OWASP Top 10**: parameterized queries, server-side validation, CSRF on state-changing endpoints, least-privilege DB roles
 
 **Frontend Developer @ Tambora** · _Jul 2025 – Sep 2025 · Remote_
 - Migrated business-critical modules from **jQuery → React**; cut bundle size **40%** and shrunk client-side attack surface
